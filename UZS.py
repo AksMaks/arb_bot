@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import telebot
-from telebot import types
 import time
 
 def get_rate_paysend():
